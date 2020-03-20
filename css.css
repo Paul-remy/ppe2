@@ -1,0 +1,94 @@
+body{
+    background: #;
+    background-image: url("https://wallup.net/wp-content/uploads/2018/09/30/39814-cg-digital-art-lava-landscapes-psychedelic-fire.jpg");
+}
+
+
+#container{
+    width:300px;
+    margin:400px ;
+    margin-top:10%;
+}
+
+
+
+
+
+form {
+    width:200%;
+    padding: 30px;
+    border: 1px solid #9A2810;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#container h1{
+    width: 300%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+/*Full-width inputs*/
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+
+
+input[type=submit] {
+    background-color: #53af57;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #53af57;
+    border: 1px solid #53af57;
+}
+
+
+
+#menu_navigation{
+    width:98%;
+    padding-top:8px;
+    padding-bottom: 8px;
+    text-align: center;
+    background-color: #9A2810;
+    list-style: none;
+}
+
+nav ul li{
+    padding:15px;
+    display: inline-block;
+    list-style: none;
+}
+
+nav ul li a{
+    padding: 30px;
+    text-decoration: none;  
+    font-size: 1.3em;
+    font-weight: bold;
+    color: white;
+}
+
+nav ul li:hover{
+    background-color: #772e84;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
